@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.App {
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 100%;
+}
+
+.App Folder {
+  position: relative;
+  padding: auto;
+}
+.text {
+  padding-bottom: 1rem;
+}
